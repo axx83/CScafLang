@@ -1,6 +1,6 @@
 # CScaf (C##): The Scaffolding Language
 
-**Code once, grow to the moon.**
+**Code once, grow forever.**
 
 Welcome to the official repository for the CScaf (C##) language design. This project is dedicated to architecting a next-generation systems programming language built around a new foundational primitive: the **Space**.
 
